@@ -1,0 +1,8 @@
+1. Temperatures tend to get hotter as they get closer to the equator, even though this is
+not always the case.
+
+2. Distance towards the equator doesn't seem to have a direct affect on humidity nor
+cloudiness.
+
+3. Wind speeds seem to generally be higher above the equator, and away from the equator
+in general.
